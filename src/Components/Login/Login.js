@@ -9,7 +9,6 @@ const Login = () => {
         password: ""
     });
     const [error, setError] = React.useState("");
-    console.log(details);
     const submitDetails = () => {
         let email = constantarray.users.find(e => e.email === details.email);
         if (!email) {
@@ -28,14 +27,9 @@ const Login = () => {
             setError("password");
         }
     }
-
-
     return (
         <div className="login row">
-            <div className="login-leftside col-lg-5">
-                
-
-            </div>
+            <div className="login-leftside col-lg-5"></div>
             <div className="login-rightside col-lg-6">
                 <div className="sign-in">
                     <p>already a member?</p>
