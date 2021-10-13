@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+## What is Hacktoberfest?
+Hacktoberfest® is open to everyone in our global community. Whether you are a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hacktoberfest is a celebration open to everyone in our global community.
+Pull requests can be made in any GitHub-hosted repositories/projects.
+You can sign up anytime between October 1 and October 31.
+Rules:
+To earn your Hacktoberfest tee or tree reward, you must register and make four valid pull requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate. This year, the first 50,000 participants who successfully complete the challenge will be eligible to receive a prize.
 
-## Available Scripts
+Read the participation details to learn how to earn your Hacktoberfest tee or tree reward.
 
-In the project directory, you can run:
+How is this repository different?
+If you are contributing for the first time on github and you are finding projects/repositories tough to enter, this will help you a lot if you know a little bit of HTML, CSS and Javascript.
 
-### `npm start`
+Our idea is to create contribute anything simple or complex you have build using HTML, CSS or javascript.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This will follow valid PR conditions of hacktoberfest and will make your contribution to stand out and presentable :)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Feel free to contribute in removing readme mistakes or errors in boilerplate code.
 
-### `npm test`
+## Getting Started:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## How to contribute?
+Add Your Deatials in Data.csv File
+Create the pull request
+Boom!.. Your 1st PR is completed.
+Thanks
+## Conclusion
+Add fun element to learning aspect of hacktoberfest! We hope you had fun doing the process and all the best for your projects! Big thank you to contribute in this project!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## License
+This repository is not linked with hacktoberfest in any way or means.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This repository will only be used for learning and educational purposes.
