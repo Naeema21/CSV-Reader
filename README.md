@@ -9,10 +9,6 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 
 Read the participation details to learn how to earn your Hacktoberfest tee or tree reward.
 
-How is this repository different?
-If you are contributing for the first time on github and you are finding projects/repositories tough to enter, this will help you a lot if you know a little bit of HTML, CSS and Javascript.
-
-Our idea is to create contribute anything simple or complex you have build using HTML, CSS or javascript.
 
 This will follow valid PR conditions of hacktoberfest and will make your contribution to stand out and presentable :)
 
@@ -22,12 +18,13 @@ Feel free to contribute in removing readme mistakes or errors in boilerplate cod
 
 
 ## How to contribute?
-Add Your Deatials in Data.csv File
+Add Your Deatials in Data.csv File which is in located in public folder.
 Create the pull request
 Boom!.. Your 1st PR is completed.
 Thanks
 ## Conclusion
-Add fun element to learning aspect of hacktoberfest! We hope you had fun doing the process and all the best for your projects! Big thank you to contribute in this project!
+Add fun element to learning aspect of hacktoberfest! 
+We hope you had fun doing the process and all the best for your projects! Big thank you to contribute in this project!
 
 ## License
 This repository is not linked with hacktoberfest in any way or means.
